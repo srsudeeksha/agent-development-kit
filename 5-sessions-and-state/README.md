@@ -83,12 +83,12 @@ Sessions are created with an initial state containing user information:
 
 ```python
 initial_state = {
-    "user_name": "Brandon Hancock",
+    "user_name": "Sudeeksha",
     "user_preferences": """
-        I like to play Pickleball, Disc Golf, and Tennis.
-        My favorite food is Mexican.
-        My favorite TV show is Game of Thrones.
-        Loves it when people like and subscribe to his YouTube channel.
+        I like to play Badminton.
+        My favorite food is Chinese.
+        My favorite TV show is Tom & Jerry.
+        I love to travel and explore new places.
     """,
 }
 ```
